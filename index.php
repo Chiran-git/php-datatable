@@ -21,8 +21,8 @@
 
 <body>
     <div class="container-fluid">
-        <h2 class="text-center">Welcome to Datatable</h2>
-        <p class="datatable design text-center">Welcome to Datatable</p>
+        <h2 class="text-center">Datatable Crud</h2>
+        <p class="datatable design text-center">PHP Mysql</p>
         <div class="row">
             <div class="container">
                 <div class="btnAdd">
